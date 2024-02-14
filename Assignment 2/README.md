@@ -1,4 +1,4 @@
-# CS211-A2
+# Assignment 2
 
 Your objective is to write a program that outputs a calendar for a given month in a given year, given the day of the week on which the 1st of the month fell. The user enters these 3 pieces of information in numeric format (months are: 1=Jan, 2=Feb, etc …, and days are 1=Sun, 2=Mon, etc …). The program outputs that month’s calendar, followed by a sentence indicating on which day the month ended.
 
