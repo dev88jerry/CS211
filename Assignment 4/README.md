@@ -1,4 +1,4 @@
-# CS211-A4
+# Assignment 4
 
 The Game of Life - [John Conway's Game of life](https://playgameoflife.com/info)
 
